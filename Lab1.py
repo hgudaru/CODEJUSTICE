@@ -1,3 +1,4 @@
+''' TASK - 1 '''
 import matplotlib.pyplot as plt
 import numpy as np
 # hard code variables
@@ -20,6 +21,7 @@ plt.show()
 
 #------------------------------------------------------------------------------------------
 
+''' TASK - 2 '''
 import matplotlib.pyplot as plt
 import numpy as np
 # hard code variables
@@ -42,6 +44,7 @@ plt.show()
 
 #------------------------------------------------------------------------------------------
 
+''' TASK - 3 '''
 f = open("a.txt", "r")
 
 import matplotlib.pyplot as plt
@@ -66,6 +69,7 @@ plt.show()
 
 #------------------------------------------------------------------------------------------
 
+''' TASK - 4 '''
 import matplotlib.pyplot as plt
 import numpy as np
 # hard code variables
@@ -90,6 +94,7 @@ plt.show()
 
 #------------------------------------------------------------------------------------------
 
+''' TASK - 5 '''
 import matplotlib.pyplot as plt
 import numpy as np
 
